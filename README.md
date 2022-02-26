@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NBO2001
-- Aluno de Ciência da Compução, na Universidade Federal do Amazonas (UFAM)
+- Aluno de Ciência da Compução na Universidade Federal do Amazonas (UFAM)
 - Welcome my git!!
 - Adoro resolver problemas tomando um bom café.
 - I like to solve problems with a good coffee.
